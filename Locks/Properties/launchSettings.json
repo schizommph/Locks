@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Locks": {
+      "commandName": "Project",
+      "commandLineArgs": "main.locks"
+    }
+  }
+}
