@@ -3,7 +3,7 @@ A Lox interpreter I wrote in C# that I had started and completed in order to und
 
 One thing I added was having classes have an optional `tostr` method
 
-```
+```js
 class Car {
   init(year, location) {
     this.year = year;
